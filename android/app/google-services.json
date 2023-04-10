@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766965576047",
+    "project_id": "finalyearproject-52a6a",
+    "storage_bucket": "finalyearproject-52a6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766965576047:android:6a27a576cc1a320bb7389a",
+        "android_client_info": {
+          "package_name": "com.example.adventure_nepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766965576047-dbbdm8s77pqrkutmb9sgachgj1avrtpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhADx9Y_UarSIBQoEoQ17IzWDn4RTivdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766965576047-dbbdm8s77pqrkutmb9sgachgj1avrtpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
